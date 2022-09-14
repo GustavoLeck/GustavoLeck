@@ -5,7 +5,7 @@
 - 🌱 Estou estudando C#, Python;
 - 🧭 Busco oportunidade para ingressar no mercado de desenvolvimento de sistemas e começar uma grandiosa carreira;
 - 👥 Tenho bom relacionamento interpessoal, adoro conversar!;
-- 💭 Meu sonho de vários anos é me tornar um programador estou fazendo o possivél para realizalo!;
+- 💭 Meu sonho de vários anos é me tornar um programador estou fazendo o possivél para realiza-lo!;
 
 <div align="center">
   <a href="https://github.com/gustavoleck">
