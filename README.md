@@ -1,7 +1,7 @@
 🌐 E ai galera! 🌐
 
 <!-- ⏳ Desenvolvendo um Sistema de Controle de Controle de Atividades Remotas;-->
-- 👨‍🏫 Atualmente trabalho como estágiário de desenvolvimento e instrutor de informática dando aulas de programação;
+- 👨‍🏫 Atualmente trabalho como desenvolvedor de informática dando aulas de programação;
 - 🌱 Estou estudando C#, Python e JavaScript;
 - 👥 Tenho bom relacionamento interpessoal, adoro conversar!;
 - 💭 Meu sonho de vários anos é me tornar um programador estou fazendo o possivél para realiza-lo!;
