@@ -4,7 +4,7 @@
 - 👨‍🏫 Atualmente trabalho como desenvolvedor realizando integrações entre sistemas usando Node.js;
 - 🌱 Estou estudando C#, Python e JavaScript;
 - 👥 Tenho bom relacionamento interpessoal, adoro conversar!;
-- 💭 Meu sonho de vários anos é me tornar um programador estou fazendo o possivél para realiza-lo!;
+- 💭 Meu sonho de vários anos é me tornar um desenvolvedor de sucesso, estou fazendo o possivél para realiza-lo!;
 
 <div align="center">
   <a href="https://github.com/gustavoleck">
