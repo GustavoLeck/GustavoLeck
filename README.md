@@ -2,7 +2,6 @@
 
 <!-- ⏳ Desenvolvendo um Sistema de Controle de Controle de Atividades Remotas;-->
 - 👨‍🏫 Atualmente trabalho como desenvolvedor realizando integrações entre sistemas usando Node.js;
-- 🌱 Estou estudando C#, Python e NodeJS;
 - 👥 Tenho bom relacionamento interpessoal, adoro conversar!;
 - 💭 Meu sonho de vários anos é me tornar um desenvolvedor de sucesso, estou fazendo o possivél para realiza-lo!;
 
